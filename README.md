@@ -21,10 +21,6 @@
   alt="Скрин"
   caption="Скрин">
   
-<image
-  src="/about-project-screen.png"
-  alt="Скрин"
-  caption="Скрин">
 
 ## Project setup
 ```
