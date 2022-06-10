@@ -21,7 +21,11 @@
   alt="Скрин"
   caption="Скрин">
   
-
+<image
+  src="/about-project-screen.png"
+  alt="Скрин"
+  caption="Скрин">
+  
 ## Project setup
 ```
 git clone https://github.com/MilkaChokolate/blog-on-vue3.git
