@@ -22,7 +22,7 @@
   caption="Скрин">
   
 <image
-  src="/about-project-screen.png"
+  src="/aboutProject-screen.png"
   alt="Скрин"
   caption="Скрин">
   
